@@ -1,4 +1,4 @@
-# Simple Rock Paper Scissors - JavaScript
+# Flight Widget - JavaScript
 
 Self revising certain concepts of JS as part of #100daysofcoding
 
